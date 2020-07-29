@@ -1,6 +1,6 @@
 import pandas as pd
 
-#beforethat, run your ide(jupyter,pycharm and other ide) as an adminstrator
+#before that, run your ide(jupyter,pycharm and other ide) as an adminstrator
 from pandas_profiling import ProfileReport
 
 d=pd.read_csv(r"FILE WHICH YOU NEED ")
